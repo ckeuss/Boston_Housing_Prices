@@ -77,3 +77,8 @@ When looking at the exploratory data analysis, it is first noticeable that among
 Clustering was used to divide the data into three clusters, displaying differences regarding economic status & accessibility (CRIM, LSTAT and DIS). The clearest separation of the clusters can be seen in the comparison of the crime rate and the proportion of the population with low status.
 
 ![Scatterplot](Scatterplot_clusters.png)
+
+
+### Feedback
+
+If you encounter any issues, mistakes, or have suggestions for improvement, please let me know.
